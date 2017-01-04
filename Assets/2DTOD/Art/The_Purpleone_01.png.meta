@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 2301a1e5b2ca78649aeacf80382a6495
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: The_Purpleone_Idle01
+    21300002: The_Purpleone_Walk01
+    21300004: The_Purpleone_Walk02
+    21300006: The_Purpleone_Idle02
+    21300008: The_Purpleone_Jump
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 64
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: The_Purpleone_Idle01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: The_Purpleone_Walk01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: The_Purpleone_Walk02
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: The_Purpleone_Idle02
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: .5, y: .479999989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: The_Purpleone_Jump
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
